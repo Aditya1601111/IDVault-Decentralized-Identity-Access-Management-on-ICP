@@ -1,0 +1,2 @@
+# IDVault-Decentralized-Identity-Access-Management-on-ICP
+IDVault is a secure, privacy-focused decentralized identity system built on the Internet Computer (ICP) blockchain. It enables users to create, manage, and verify self-sovereign identities (SSI) without relying on centralized authorities or third-party providers. Using a combination of Motoko-based smart contracts and Web3 authentication tools
